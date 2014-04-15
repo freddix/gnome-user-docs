@@ -1,11 +1,11 @@
 Summary:	GNOME user focumentation
 Name:		gnome-user-docs
-Version:	3.12.0
+Version:	3.12.1
 Release:	1
 License:	GFDL
 Group:		Documentation
 Source0:	http://ftp.gnome.org/pub/GNOME/sources/gnome-user-docs/3.12/%{name}-%{version}.tar.xz
-# Source0-md5:	b754198a54e91e8b612095bd4527da26
+# Source0-md5:	65aea4924087318edaa03f4c9974f8b8
 BuildRequires:	docbook-dtd412-xml
 BuildRequires:	docbook-dtd43-xml
 BuildRequires:	gettext-devel
