@@ -1,11 +1,11 @@
 Summary:	GNOME user focumentation
 Name:		gnome-user-docs
-Version:	3.14.0
+Version:	3.14.1
 Release:	1
 License:	GFDL
 Group:		Documentation
 Source0:	http://ftp.gnome.org/pub/GNOME/sources/gnome-user-docs/3.14/%{name}-%{version}.tar.xz
-# Source0-md5:	7c5467e8f7946a6c51dc5565828485f6
+# Source0-md5:	979a8b8cbed654f7684405f1df54fe46
 BuildRequires:	docbook-dtd412-xml
 BuildRequires:	docbook-dtd43-xml
 BuildRequires:	gettext-devel
